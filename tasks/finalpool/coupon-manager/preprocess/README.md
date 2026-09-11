@@ -1,0 +1,1 @@
+Preprocess directory for coupon-manager.
